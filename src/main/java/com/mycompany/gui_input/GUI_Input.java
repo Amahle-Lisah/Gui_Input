@@ -1,6 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package com.mycompany.gui_input;
 
 /**
@@ -31,6 +28,6 @@ public class GUI_Input {
                 int CurrentYear= 2026;
                 
                 NewAge= CurrentYear - BirthYear;
-                JOptionPane.showMessageDialog(null, "You are "  + NewAge + "years old");
+                JOptionPane.showMessageDialog(null, "You are "  + NewAge  +   "  years old");
     }
-}
+}// end of class
