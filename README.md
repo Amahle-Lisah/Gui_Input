@@ -14,7 +14,7 @@ GUI Input is a small Java application that uses pop-up dialog boxes instead of t
 GUI_Input: Main class and the only class. Shows the input and message dialogs and does the age calculations.
 
 ## TECHNOLOGIES USED
--Netbeans (Maven)
+- Netbeans (Maven)
 - Java
 - Java Swing (`JOptionPane`) for the dialog boxes
 
